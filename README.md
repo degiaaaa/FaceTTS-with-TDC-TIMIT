@@ -1,4 +1,4 @@
-# Preparing Face-TTS for Traing with temporal Dataset TCD-TIMIT
+# Debug Face-TTS Training with temporal Dataset TCD-TIMIT
 
 ---
 ## Setting up the Development Environment
