@@ -1,6 +1,6 @@
 # environment.yml
 
-name: c:\Users\debor\OneDrive\Desktop\Lab-main\.conda
+name: lab_environment
 channels:
   - defaults
 dependencies:
